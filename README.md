@@ -22,6 +22,5 @@
 - Educational content for tech enthusiasts
 
 ### 📫 How to reach me ...
-- Email: afrcodewizard@example.com
-- LinkedIn: [AfriCodeWizard](https://www.linkedin.com/in/afrcodewizard)
-- Twitter: [@AfriCodeWizard](https://twitter.com/AfriCodeWizard)
+- Email: collo2035@gmail.com
+- Twitter: https://x.com/africodewiz
