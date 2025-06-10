@@ -7,12 +7,6 @@
 - Mobile application development
 - Innovative tech solutions for Africa
 
-### 🌱 I’m currently learning ...
-- Advanced HTML and CSS techniques
-- JavaScript frameworks like React and Vue.js
-- Backend development with Node.js and Express
-- Data structures and algorithms
-- Rust for performance optimization
 
 ### 💞️ I’m looking to collaborate on ...
 - Web and mobile application projects
